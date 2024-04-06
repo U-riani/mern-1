@@ -34,9 +34,3 @@ Welcome to the MERN Workout Tracker project! This project allows users to track 
 3. Install frontend dependencies: `npm install`
 4. Start the frontend development server: `npm start`
 
-
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-- MongoDB installed locally or a remote MongoDB database URI.
