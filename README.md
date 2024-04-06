@@ -30,9 +30,9 @@ Welcome to the MERN Workout Tracker project! This project allows users to track 
 ### Frontend Setup
 
 1. Open a new terminal window or tab.
-2. Navigate to the `frontend` directory: 'cd frontend'
-3. Install frontend dependencies: 'npm i'
-4. Start the frontend development server: 'npm start'
+2. Navigate to the `frontend` directory: `cd frontend`
+3. Install frontend dependencies: `npm install`
+4. Start the frontend development server: `npm start`
 
 
 
