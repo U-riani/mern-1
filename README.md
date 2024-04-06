@@ -22,7 +22,7 @@ Welcome to the MERN Workout Tracker project! This project allows users to track 
       - `npm install`
   3. Set up environment variables:
     - Modify the `MONGO_URI` variable in the `.env` file to point to your MongoDB        database. Example:
-    ```MONGO_URI=mongodb+srv://<<username>>:<<password>>@mernapp.dtszqap.mongodb.net/?retryWrites=true&w=majority&appName=mernapp````
+    `MONGO_URI=mongodb+srv://<username>:<password>@mernapp.dtszqap.mongodb.net/?retryWrites=true&w=majority&appName=mernapp`
   5. Run the backend server in development mode:
       - `npm run dev`
     
