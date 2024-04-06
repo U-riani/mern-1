@@ -19,7 +19,7 @@ Welcome to the MERN Workout Tracker project! This project allows users to track 
 
   1. Navigate to the `backend` directory: 'cd backend'
   2. Install backend dependencies:
-      - 'npm install'
+      - `npm install`
   3. Set up environment variables:
     - Ensure you have a `.env` file in the `backend` directory.
     - Modify the `MONGO_URI` variable in the `.env` file to point to your MongoDB        database. Example:
